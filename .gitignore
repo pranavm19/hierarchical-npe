@@ -1,0 +1,11 @@
+/*/.ipynb_checkpoints
+/*/__pycache__
+/spikesorting
+/dredge
+/dartsort
+/cache
+
+*.png
+*.npy
+*.h5
+*.sif
