@@ -1,11 +1,9 @@
-/*/.ipynb_checkpoints
-/*/__pycache__
-/spikesorting
-/dredge
-/dartsort
-/cache
+.ipynb_checkpoints/*
+__pycache__
+biomime_weights
 
 *.png
 *.npy
 *.h5
 *.sif
+*.pth
